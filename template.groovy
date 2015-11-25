@@ -14,10 +14,10 @@
  *
  */
 definition(
-    name: "test app",
+    name: "template app",
     namespace: "shepner",
     author: "Stephen Hepner",
-    description: "test app",
+    description: "Template app",
     category: "My Apps",
     iconUrl: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience.png",
     iconX2Url: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience@2x.png",
